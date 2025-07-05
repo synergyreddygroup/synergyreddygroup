@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/privacypolicy", "destination": "/privacypolicy.html" },
+    { "source": "/termsodservice", "destination": "/termsodservice.html" }
+  ]
+}
